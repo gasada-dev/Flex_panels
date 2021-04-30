@@ -10,6 +10,8 @@
     min-height: 100vh;
     overflow: hidden;
     text-transform: uppercase;
+    cursor: default;
+    user-select: none;
 }
 
 .panel {
